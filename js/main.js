@@ -3,4 +3,4 @@
 	// python print -> console.log is the same thing
 
 	console.log('fired!'); 
-});
+})();
