@@ -1,2 +1,5 @@
-*.ai*.psd
-\n*ae
+*.ai
+*.psd
+*.ae
+.DS_Store
+
